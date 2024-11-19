@@ -2,5 +2,13 @@
     {
         "package": "cblttr",
         "url": "https://github.com/cathblatter/cblttr"
+    },
+    {
+        "package": "starfish",
+        "url": "https://github.com/cathblatter/starfish"
+    },
+    {
+        "package": "fidelitysim",
+        "url": "https://github.com/INS-Basel/fidelitysim"
     }
 ]
